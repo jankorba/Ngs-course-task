@@ -24,7 +24,7 @@
 ##### Finally, I merged both extracted columns into one singe file delimited by tab.
 ```paste col-dp.tsv col_phred.tsv  > col_both.tsv```
 
-##**Switch to R**
+## **Switch to R**
 ##### First, I set the current working directory.
 ```> setwd("~/final_task")```
 
