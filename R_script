@@ -1,0 +1,12 @@
+#R set working directory
+> setwd("~/final_task")
+
+# load library
+> library(tidyverse)
+
+# load the file, define column names
+> read_tsv("col_both.tsv", col_names = c ("DP", "PHRED")) -> d
+
+#plot
+> ggplot(d, aes(x = PHRED, y = DP)) + geom_point()
+
