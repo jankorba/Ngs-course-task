@@ -38,7 +38,7 @@
 ```> ggplot(d, aes(x = PHRED, y = DP)) + geom_point()```
 
 ## **Show the graph**
-![Graph showing correlation between Phred quality score (PHRED) and read depth (DP)] (https://github.com/jankorba/Ngs-course-task/blob/main/Rplot.png)
+![Graph showing correlation between Phred quality score (PHRED) and read depth (DP)] (https://www.flickr.com/photos/23206893@N05/51804819482/in/dateposted/)
 
 
 
