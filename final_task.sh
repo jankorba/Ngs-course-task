@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #make directory
 mkdir final_task
 
