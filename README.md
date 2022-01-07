@@ -2,7 +2,7 @@
 ## **Description**
 #### As the final exam, I chose the task number 10. In this task, I had to correlate the PHRED quality score and read depth (DP).
 
-##**Run the pipeline**
+## **Run the pipeline**
 ##### First, I prepared a new directory in my local directory for this task.
 ```mkdir final_task```
 
@@ -38,7 +38,7 @@
 ```> ggplot(d, aes(x = PHRED, y = DP)) + geom_point()```
 
 ### **Show the graph**
-! [Graph showing correlation between Phred quality score (PHRED) and read depth (DP)] (https://www.flickr.com/photos/23206893@N05/51804819482/in/dateposted/)
+! [Graph showing correlation between Phred quality score and read depth](https://www.flickr.com/photos/23206893@N05/51804819482/in/dateposted/)
 
 
 
